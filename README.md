@@ -293,7 +293,7 @@ git branch -d feature/nome      # Deleta a branch local após merge
 
 ## 👥 Autor
 
-- **[Seu Nome Aqui]** — Aluno(a) do Curso Técnico em Desenvolvimento de Sistemas
+- **[Sofia Carvalho Ferreira]** — Aluno(a) do Curso Técnico em Desenvolvimento de Sistemas
 
 ---
 
