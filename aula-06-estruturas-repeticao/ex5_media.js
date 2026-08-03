@@ -6,7 +6,6 @@ console.log('--- Média ---')
 console.log("")
 
 let nota = Number (prompt("Digite a nota do aluno (-1 para encerrar): "));
-
 let soma = 0;
 let contador = 0;
 
